@@ -1,1 +1,1 @@
-Prosty program w htmlu z zastosowaniem JavaScriptu polegający na wyświetlaniu elementów, w którym co piąty element jest inny
+Simple program adding elements after clicking the button. Every fifth element is different from the rest.
